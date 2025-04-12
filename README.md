@@ -1,8 +1,9 @@
-Atividade Operadores aritméticos 01
 <h1 align="center"> 
-	🧠 Atividade: Atividade 01 - Operadores aritméticos
+	Variáveis
 </h1>
 
-## 🎯 Objetivo
 
-✔ adição, subtração, multiplicação, divisão e operadores matemáticos básicos!
+1. Variáveis são como caixas de armazenamento onde você guarda diferentes objetos.
+2. Para criar variáveis, use let ou const seguidos do nome e valor da variável.
+3. Escolha nomes significativos para suas variáveis e use o padrão camelCase.
+4. Use const se o valor não mudará e let se precisar atualizá-lo no futuro.
